@@ -59,6 +59,21 @@ function App() {
           </li>
         </ul>
       </div>
+      <div>
+        <h2>🔵 4. Preparación de la mesa de impresión</h2>
+        <p>Ya con la malla lista (pantalla revelada):</p>
+        <ul>
+          <li>
+            Se alinea en la mesa de impresión o pulpo, dependiendo del equipo
+            que uses.
+          </li>
+          <li>
+            Se colocan registros o marcas para asegurar que cada prenda esté
+            bien posicionada.
+          </li>
+          <li>También se ajusta la presión y altura del marco.</li>
+        </ul>
+      </div>
     </div>
   );
 }
