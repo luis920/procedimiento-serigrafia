@@ -91,6 +91,22 @@ function App() {
           <li>
             Para diseños multicolor, repite el proceso con diferentes mallas.
           </li>
+          <div>
+            <h2>🟤 6. Secado y curado</h2>
+            <p>
+              La tinta recién impresa debe fijarse correctamente para durar.
+            </p>
+            <ul>
+              <li>
+                Tinta plastisol: requiere curado con calor (usualmente
+                160-180°C) mediante una banda de calor o pistola industrial.
+              </li>
+              <li>
+                Tinta base agua: puede secarse al aire o con calor, dependiendo
+                del tipo.
+              </li>
+            </ul>
+          </div>
         </ul>
       </div>
     </div>
