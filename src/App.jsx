@@ -19,6 +19,23 @@ function App() {
           </li>
         </ul>
       </div>
+      <div>
+        <h2>🟡 2. Impresión del fotolito</h2>
+        <p>
+          El diseño se imprime en negro sólido sobre una película transparente
+          (llamada fotolito).
+        </p>
+        <ul>
+          <li>
+            Este fotolito será utilizado para bloquear la luz durante el proceso
+            de revelado.
+          </li>
+          <li>
+            Puede imprimirse con una impresora láser o de inyección de tinta,
+            dependiendo del tipo de película.
+          </li>
+        </ul>
+      </div>
     </div>
   );
 }
