@@ -36,6 +36,29 @@ function App() {
           </li>
         </ul>
       </div>
+      <div>
+        <h2>🟠 3. Emulsión y revelado</h2>
+        <p>Se prepara el marco con malla para grabar el diseño.</p>
+        <ul>
+          <li>
+            Aplica una capa uniforme de emulsión fotosensible en ambos lados de
+            la malla.
+          </li>
+          <li>Deja secar completamente en un lugar oscuro.</li>
+          <li>
+            Luego, coloca el fotolito sobre la malla seca y expón a una fuente
+            de luz UV.
+          </li>
+          <li>
+            La luz endurece la emulsión, excepto donde está bloqueada por el
+            diseño.
+            <li>
+              Lava la malla con agua para revelar el diseño (la emulsión no
+              endurecida se disuelve).
+            </li>
+          </li>
+        </ul>
+      </div>
     </div>
   );
 }
