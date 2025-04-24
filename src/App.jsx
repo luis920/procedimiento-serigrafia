@@ -74,6 +74,25 @@ function App() {
           <li>También se ajusta la presión y altura del marco.</li>
         </ul>
       </div>
+      <div>
+        <h2>🔴 5. Impresión</h2>
+        <p>Comienza el proceso de impresión sobre la prenda o superficie.</p>
+        <ul>
+          <li>
+            Coloca la tinta sobre la malla en la parte superior del diseño.
+          </li>
+          <li>
+            Con una rasera o squeegee, presiona y arrastra la tinta sobre el
+            diseño.
+          </li>
+          <li>
+            La tinta pasa solo por las zonas reveladas (donde no hay emulsión).
+          </li>
+          <li>
+            Para diseños multicolor, repite el proceso con diferentes mallas.
+          </li>
+        </ul>
+      </div>
     </div>
   );
 }
